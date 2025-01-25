@@ -1,0 +1,21 @@
+git-hub command 
+
+to create file---->
+- git config --global user.name/email (file name)
+
+to show git list----->
+- git config --list
+
+check git status---->
+- git status
+
+<h1>Add & Commit<h1/>
+Add new file to working directory to git staging area----->
+- git add < "file name "
+
+Commit it is the record to change---->
+- git commit -m "some message"
+
+<h1>Push Command <h1/>
+Push- upload local file to git repo---->
+- git push origin main
